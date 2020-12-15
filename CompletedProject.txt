@@ -1,0 +1,2 @@
+9, Bussiness Complex Hariprasadh, Bussiness Complex, 26 Ballito Business Park, ERF009, 5000000.0, 900000.0, 21 April 2021, 9 December 2020, true
+10, House Sezgin, House, 74 Liquor Street, ERF0010, 2000000.0, 800000.0, 30 December 2020, 11 December 2020, true

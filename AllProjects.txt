@@ -1,0 +1,10 @@
+1, Apartment Rooplall, Apartment, 24 Azalia Street Tongaat, ERF001, 900000.0, 300000.0, 30 January 2021, false
+2, House Hariprasadh, House, 15 Lily Pond Avenue, ERF002, 420000.0, 50000.0, 30 January 2021, false
+3, Apartment Govender, Apartment, 78 Walnut Road Stellenbosche, ERF003, 800000.0, 420000.0, 11 December 2020, false
+4, House Naidu, House, 14 Checker Block Zimbali, ERF004, 1000000.0, 300000.0, 4 December 2020, false
+5, Complex Reddy, Complex, 14 Premier Road Durban, ERF005, 5000000.0, 1000000.0, 24 March 2021, false
+6, Apartment Rooplall, Apartment,  26 Sunflower Road, ERF006, 900000.0, 300000.0, 20 January 2021, false
+7, House Shanavi, House, 18 Dandelion Drive Effingham, ERF007, 900000.0, 100000.0, 11 December 2020, false
+8, Office Moodley, Office, Ballito business park, ERF008, 2000000.0, 900000.0, 20 June 2021, false
+9, Bussiness Complex Hariprasadh, Bussiness Complex, 26 Ballito Business Park, ERF009, 5000000.0, 900000.0, 21 April 2021, true
+10, House Sezgin, House, 74 Liquor Street, ERF0010, 2000000.0, 800000.0, 30 December 2020, true

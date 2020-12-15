@@ -1,0 +1,10 @@
+1, Lucy Rooplall, 0825526227, lucy@gmail.com, 15 Lily Pond Avenue, Madan Dukhi, 0614785963, madan@gmail.com, 13 Lily Pond Avenue, Avish Hariprasadh, 0662217978, avish@gmail.com, 32 Isnembe Drive Ballito
+2, Shivashna Hariprasadh, 0610827946, shivashna@gmail.com, 24 malberry street Ballito, Alvin Pillay, 0612742589, alvin@gmail.com, 14 Bush Site Clare Estate, Gopika Maharaj, 0817458963, gopika@gmail.com, 78 Classy Street Midrand
+3, Viroshnee Govender, 0847539632, viroshnee@gmail.com, 14 Strawberry Farm Stanger, Jeeten Celebi, 0618523697, jeeten@gmail.com, 58 Harness Road Northcoast, Thamarlin Moodaly, 0725489632, thamarlin@gmail.com, 24 Heather Road Durban
+4, Ahkaylin Naidu, 0612742589, ahkaylin@gmail.com, 15 Squid Road Westbrook, Tashil Moodly, 0821478552, tashil@gmail.com, 74 Northcoast Durban, Shuvae Salikram, 0624785962, shuvae@gmail.com, 18 Fennel Drive Northcoast
+5, Shivek Reddy, 0614785962, shivek@gmail.com, 54 Enderson Road Durban, Kalesh Jeevanlal, 0785236985, kalesh@gmail.com, 28 Golden Street Pheonix, Shivan Govender, 0722587413, shivan@gmail.com, 32 Northcoast Durban
+6, Shivashna Rooplall, 0610827946, shivashna@gmail.com, 15 Lily Pond Avenue, Shivan Gopalall, 0826547896, shivan@gmail.com, 14 sanders Road , Kerishma Haripursath, 0624789651, kerishma@gmail.com, 78 Rose Valley Northcoast
+7, Shanavi Hariprasadh, 0824578965, shanavi@gmail.com, 22 Sunflower Valley Hilltop, Brian Adams, 0624587963, brian@gmail.com, 52 Hatters Road Tongaat, Victor Graham, 0814785963, victor@gmail.com, 63 Ladders Corner Overport
+8, Lushen Moodley, 0612742589, lushen@gmail.com, 74 Magic Street Umhlanga, Sheldon Cooper, 0814785962, sheldon@gmail.com, 21 Wicker Street Belvedere, Manushka Sharma, 0824789652, manushka@gmail.com, 17 Railway Street tongaat
+9, Shana Hariprasadh, 0610827946, shana@gmail.com, 16 Azalia Road Umhlanga, Faruk Boran, 0826547896, farukboran@gmail.com, 48 Mandela Road Durban, Sureya Sidki, 0721479635, sureya@gmail.com, 58 Rocker Street
+10, Adem Sezgin, 0821478965, adem@gmail.com, 70 Liquor Street, Fikret Boran, 0826547896, fikretboran@gmail.com, 25 Orchard Street, Selim Emiroglu, 0612369874, selim@gmail.com, 12 Dandelion Road
