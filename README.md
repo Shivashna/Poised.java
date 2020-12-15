@@ -88,6 +88,8 @@ If there is still an outstanding amount to be paid, the program will generate an
 - Client's physical address
 - Amount still to be paid
 
+After the project has been marked as *finalised*, it will then be written to a text file called 'CompletedProject.txt'.
+
 Thereafter the main menu will be displayed again.
 
 
