@@ -76,7 +76,7 @@ If this option is chosen, the user will then have to choose a project they want 
 
 ### Option 5 - Finalizing A Project
 
-When this option is selected, a list of all the existing projects will be displayed to the user in an easy-to-read manner. The user will then have to choose a project they want to edit the contractor's email address for by either entering the project number or the project name. An appropriate message will be displayed if the project name or number entered does not exist. If the project name or number does exist, the program marks a project as *finalised*. The program then checks if the full fees has been paid by the client or not. 
+When this option is selected, a list of all the existing projects will be displayed to the user in an easy-to-read manner. The user will then have to choose a project they want to finalize by either entering the project number or the project name. An appropriate message will be displayed if the project name or number entered does not exist. If the project name or number does exist, the program marks a project as *finalised*. The program then checks if the full fees has been paid by the client or not. 
 
 If the full fees have been paid by the client the program outputs a suitable message to the user stating that the full fees have been paid. 
 
